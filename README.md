@@ -34,7 +34,7 @@
    ```bash
    python parser.py
 
-### Шаг 3. Фиксируем зависимости
+### Фиксируем зависимости
 Чтобы команда `pip install -r requirements.txt` из README сработала, этот файл нужно создать. Выполни в терминале:
 ```bash
 pip freeze > requirements.txt
